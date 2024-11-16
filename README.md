@@ -8,7 +8,7 @@
   <a href="https://www.facebook.com/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="https://bsky.app/profile/weberp-official.bsky.social" target="_blank">
+  <a href="https://bsky.app/profile/weberp.org" target="_blank">
     <img src="https://img.shields.io/badge/Bluesky-blue?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky Badge"/>
   </a>
 </div>
